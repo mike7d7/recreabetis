@@ -1,0 +1,47 @@
+# Creación de la página "RecreaBETIS" en WordPress
+
+## Introducción
+WordPress es una de las plataformas más populares para la creación de sitios web. En esta guía, te explicaré paso a paso cómo crear la página "RecreaBETIS" en WordPress.
+
+## Requisitos previos
+Antes de comenzar, asegúrate de tener:
+- Un dominio y alojamiento web (puedes adquirirlo en servicios como Bluehost, SiteGround o Hostinger).
+- Instalación de WordPress (la mayoría de los proveedores ofrecen instalación automática).
+- Una idea clara de la estructura y contenido que deseas incluir en "RecreaBETIS".
+
+## Paso 1: Acceder al panel de administración
+1. Ingresa a `tudominio.com/wp-admin`.
+2. Introduce tu usuario y contraseña para acceder al panel de administración.
+
+## Paso 2: Configurar los ajustes básicos
+1. Ve a **Ajustes > Generales** y configura el título y descripción del sitio.
+2. Ajusta la zona horaria, idioma y formato de fecha según tu preferencia.
+
+## Paso 3: Elegir un tema
+1. Ve a **Apariencia > Temas** y selecciona un tema que se adapte a "RecreaBETIS".
+2. Puedes instalar un tema gratuito desde el directorio de WordPress o subir un tema premium.
+
+## Paso 4: Crear la página principal
+1. Ve a **Páginas > Añadir nueva**.
+2. Introduce el título "RecreaBETIS".
+3. Usa el editor de bloques de WordPress para agregar texto, imágenes y secciones.
+4. Pulsa **Publicar** cuando estés listo.
+
+## Paso 5: Personalizar la estructura del sitio
+1. Ve a **Apariencia > Menús** y crea un menú con enlaces a las secciones principales.
+2. Ve a **Widgets** y personaliza los bloques de contenido en la barra lateral o pie de página.
+
+## Paso 6: Instalar plugins esenciales
+Instala plugins para mejorar la funcionalidad de tu sitio:
+- **Yoast SEO** para optimización de motores de búsqueda.
+- **WP Super Cache** para mejorar el rendimiento.
+- **Contact Form 7** para agregar formularios de contacto.
+
+## Paso 7: Publicar contenido
+1. Ve a **Entradas > Añadir nueva** para crear artículos y noticias relevantes.
+2. Usa imágenes atractivas y formatos adecuados para mejorar la presentación.
+
+## Paso 8: Revisar y lanzar el sitio
+1. Navega por tu sitio y revisa el diseño y funcionalidad.
+2. Corrige errores y ajusta detalles antes de compartirlo con tu audiencia.
+3. 
